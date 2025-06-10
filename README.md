@@ -1,2 +1,4 @@
 ## Objectif
-Ce projet permet de faire des calculs simples en PHP.
+Ce programme effectue des opérations arithmétiques de base en PHP.
+
+
